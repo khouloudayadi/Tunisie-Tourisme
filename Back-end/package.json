@@ -1,0 +1,23 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "c'ext un guide touristique pour visiter tunis et bien préparer son voyage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "csprng": "^0.1.2",
+    "express": "^4.17.1",
+    "gravatar": "^1.8.0",
+    "mongoose": "^5.6.0",
+    "node-restful": "^0.2.6",
+    "nodemailer": "^6.2.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "sendmail": "^1.4.1"
+  }
+}
